@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Nosotros
-permalink: /about/
+title: Posicionaweb
+permalink: /Nosotros/
 ---
 
-Posicionaweb - SEO | SEM | SMO | EDU | LOPD | EMPRESA | CIBERACOSO
+SEO | SEM | SMO | EDU | LOPD | EMPRESA | CIBERACOSO | TIC
 
 ### www.posicionaweb.tk
