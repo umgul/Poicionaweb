@@ -9,7 +9,7 @@ name: Posicionaweb
 description: Community Management - Servicios SEO - LOPD - Prevención de Ciberacoso - Gamificación
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/<posicionaweb>
+avatar: http://www.posicionaweb.tk
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://avatars.githubusercontent.com/<posicionaweb>
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: info@posicionaweb.tk
+  email:
   facebook: Posicionaweb.tk
   flickr:
   github: umgul/posicionaweb
