@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posicionaweb
-permalink: /Nosotros/
+permalink: /about/
 ---
 
 SEO - SEM - SMO - EDU - LOPD - EMPRESA - CIBERACOSO - TIC
